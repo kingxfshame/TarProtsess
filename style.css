@@ -6,6 +6,10 @@ p{
 	text-align: center;
 }
 
+body{
+	background-color: #FF1493;
+}
+
 .center {
   display: block;
   margin-left: auto;
