@@ -1,2 +1,2 @@
 
-	document.title = 'Artjom makaka';
+	document.title = 'Artjom makak';
