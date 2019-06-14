@@ -1,10 +1,18 @@
 /* +Поменяй задний фон на розовый*/ 
 /* Сделай анимацию текста при загрузки страницы(любую)*/
-/* Поменять шрифт на google fonts любой у текста в <p> и размер*/
+/* +Поменять шрифт на google fonts любой у текста в <p> и размер*/
 p{
 	position: absolute;
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 body{
 	background-color: pink;
+}
+figcaption{
+	position: absolute;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
