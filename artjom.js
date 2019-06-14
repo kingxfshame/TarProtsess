@@ -1,2 +1,2 @@
 
-	document.title = 'Artjom makaka';
+	document.title = 'Artur chelik s pokrashenimi volosami';
